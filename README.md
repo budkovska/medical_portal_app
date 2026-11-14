@@ -10,7 +10,7 @@ MedPortal helps users quickly find doctors and clinics, book appointments, learn
 ![Express](https://img.shields.io/badge/Express-5-000000?style=for-the-badge&logo=express)
 ![MySQL](https://img.shields.io/badge/MySQL-8-4479A1?style=for-the-badge&logo=mysql)
 
-## ✨ Main features
+## Main features
 
 - User registration and login
 - Doctor catalog with detailed profiles
@@ -21,7 +21,7 @@ MedPortal helps users quickly find doctors and clinics, book appointments, learn
 - Contact form and support section
 - Smooth animated UI with modern design
 
-## 🛠️ Tech stack
+## Tech stack
 
 ### Frontend
 - React 19
@@ -38,7 +38,7 @@ MedPortal helps users quickly find doctors and clinics, book appointments, learn
 - JWT authentication
 - CORS and dotenv support
 
-## 📁 Project structure
+## Project structure
 
 ```text
 medical_portal_app/
@@ -57,7 +57,7 @@ medical_portal_app/
 └── README.md
 ```
 
-## 🚀 Getting started
+## Getting started
 
 ### Requirements
 
@@ -136,18 +136,3 @@ npm run build
 npm run preview
 npm run lint
 ```
-
-## 📌 Notes
-
-- The frontend communicates with the backend through the API at `http://localhost:5000`.
-- Make sure your MySQL server is running before starting the backend.
-- For production deployment, configure environment variables securely.
-
-## 📄 License
-
-This project is licensed under the ISC License.
-
-## 👥 Contribution
-
-Contributions, ideas, and pull requests are welcome.
-If you want to improve the project, feel free to open an issue or submit a pull request.
